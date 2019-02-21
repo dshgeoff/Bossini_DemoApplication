@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bossini</string>
+
+    <string name="title_activity">Demo Application</string>
+    <string name="question_activity">question_activity</string>
+    <string name="reading_activity">reading_activity</string>
+    <string name="result_activity">result_activity</string>
+    <string name="reminder_notification">reminder_notification</string>
+    <string name="alert_pop_up">alert_pop_up</string>
+
+    <string name="general_done">Done</string>
+    <string name="error_general">error</string>
+    <string name="common_confirm">OK</string>
+    <string name="common_submit">Submit</string>
+
+    <string name="question_1">Please fill in your name</string>
+    <string name="question_2">Please fill in your job title</string>
+    <string name="question_3">Please fill in your email</string>
+    <string name="question_4">Please fill in your gender</string>
+    <string name="question_5">Please fill in your age</string>
+    <string name="question_6">Please fill in your favorite food</string>
+    <string name="question_7">Please fill in your favorite tv show</string>
+
+    <string name="question_1_hint">Name</string>
+    <string name="question_2_hint">Job Title</string>
+    <string name="question_3_hint">Email</string>
+    <string name="question_4_hint">Gender</string>
+    <string name="question_5_hint">Age</string>
+    <string name="question_6_hint">Food</string>
+    <string name="question_7_hint">Tv Show</string>
+
+    <string name="result_content">Nice to meet you today, hope you like our presentation!</string>
+
+    <string name="SHARED_PREFERENCE_IS_REDIRECT">SHARED_PREFERENCE_IS_REDIRECT</string>
+
+    <string name="notification_title">Hello</string>
+    <string name="notification_content">The form is not fully filled but no worries, tap here to get a special treat!</string>
+
+</resources>

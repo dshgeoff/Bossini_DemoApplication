@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="demoWhite">#FFFFFF</color>
+    <color name="demoBlack">#000000</color>
+    <color name="demoAnswerText">#F4F4F4</color>
+    <color name="demoSubmitButton">#1ebd7d</color>
+    <color name="demoTransparentGreen">#591ebd7d</color>
+    <color name="demoTransparentBlue">#593d87ff</color>
+    <color name="demoTransparentPurple">#59520177</color>
+    <color name="demoTransparentPink">#59ff84c5</color>
+
+</resources>

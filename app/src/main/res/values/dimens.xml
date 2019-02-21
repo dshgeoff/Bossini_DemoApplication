@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_height">55dp</dimen>
+    <dimen name="action_bar_padding">12dp</dimen>
+    <dimen name="action_bar_button_width">50dp</dimen>
+
+    <dimen name="question_activity_top_padding">20dp</dimen>
+    <dimen name="question_activity_side_padding">10dp</dimen>
+    <dimen name="question_activity_question_margin">10dp</dimen>
+
+    <dimen name="question_activity_submit_button_padding">5dp</dimen>
+
+    <dimen name="reading_activity_circle_indicator_margin">100dp</dimen>
+
+</resources>

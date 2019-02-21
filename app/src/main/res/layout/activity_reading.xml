@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <com.gtomato.demoapplicationjan2018.ui.CustomViewPager
+        android:id="@+id/vpReadingPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tlCircleIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/reading_activity_circle_indicator_margin"
+        app:tabBackground="@drawable/tab_selector"
+        app:tabGravity="center"
+        app:tabIndicatorHeight="0dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="right"
+        android:padding="@dimen/question_activity_submit_button_padding"
+        android:weightSum="6">
+
+        <Button
+            android:id="@+id/tvProgressButton"
+            android:layout_width="0dp"
+            android:layout_height="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/white_btn"
+            android:gravity="center"
+            android:text="Skip"
+            android:textColor="@color/demoBlack"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
